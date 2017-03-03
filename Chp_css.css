@@ -27,6 +27,10 @@ section		{
 			
 			}
 			
+table 		{
+			text-align: center
+			}
+			
 footer		{
 	
 
@@ -45,6 +49,13 @@ a:hover
 			{
 				
 				transform: scale(1.4);
+			}
+			
+			
+a:right 	
+			{
+				
+				text-align:center;
 			}
 			
 			
