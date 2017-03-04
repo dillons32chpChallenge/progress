@@ -1,0 +1,150 @@
+body 		{
+				font-family:arial,helvetica,sans-serif;
+				font-size:18px;
+			}
+
+div			{
+				border: 0px solid green;
+			}			
+
+h1	 	
+			{
+				font-size: 40px;
+				text-align: center;
+			}
+
+nav			{
+				display: flex;
+				justify-content:space-between;
+				list-style-type: none;
+			}
+
+
+section		{		
+			
+			border:2px solid green;
+			
+			
+			}
+			
+table 		{
+			text-align: center
+			}
+			
+footer		{
+	
+
+	        border: 2px solid green;
+			
+
+            }
+a			{
+			
+			
+			color:blue;
+			
+			
+			}
+a:hover 	
+			{
+				
+				transform: scale(1.4);
+			}
+			
+			
+a:right 	
+			{
+				
+				text-align:center;
+			}
+			
+			
+			.title
+					{
+					
+					width:100%;
+					background-color: green;
+					color:red;
+					text-align:center;
+			
+					}
+					.text
+					{
+					
+					
+					text-align:right;
+					
+					}
+			
+.webframe 	{
+				width:70%;
+				margin:0px auto;	
+			}
+
+.title 	
+			{
+				background-color: blue;
+				color: white;
+			}				
+
+			
+			
+.links 		{
+				background-color: green;	
+				text-align:center;
+			}			
+			
+			.picture_center 	{
+				
+				float:center;
+				margin: 10px;
+				
+			}
+
+.picture_center	{
+				
+				float:center;
+				margin: 10px;
+				
+			}
+
+.picture_left 	{
+				
+				float:left;
+				margin: 20px;
+				
+			}
+
+.picture_right 	{
+				
+				float:right;
+				margin: 10px;
+				
+			}
+			
+.animatetitle
+			{
+					width: 100%;
+					text-align: center;
+					background-color: blue;
+					color: white;
+					animation-name:myfirst;
+					animation-duration:10s;
+					animation-iteration-count:infinite;
+			}
+
+@keyframes myfirst
+			{
+				/*
+				from {color:white;}
+				to {color:red;}
+				*/
+				
+				
+				0% {background:blue; left:0px; top:0px;}
+				25% {background:black; left:150px; top:0px;}
+				50% {background:green; left: 150px; top: 150px;}
+				75% {background:purple; left:0px; top: 150px;}
+				100% {background:gray; left:0px; top:0px;}
+				
+			}
