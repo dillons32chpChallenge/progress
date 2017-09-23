@@ -12,7 +12,7 @@
  
 var fadeimages2=new Array() //2nd array set example. Remove or add more sets as needed.
 //SET IMAGE PATHS. Extend or contract array as needed
-fadeimages2[0]=["A49.jpg", "50%", "50%"]
+fadeimages2[0]=["A51.jpg", "50%", "50%"]
 fadeimages2[1]=["A50.jpg", "", ""]
 fadeimages2[2]=["A2.jpg", "", ""]
 fadeimages2[3]=["A48.jpg", "", ""]
