@@ -62,7 +62,7 @@ fadeimages2[46]=["A17.jpg", "", ""]
 fadeimages2[47]=["A41.jpg", "", ""]
 fadeimages2[48]=["A43.jpg", "", ""]
 fadeimages2[49]=["A4.jpg", "", ""]
-//fadeimages2[50]=["A49.jpg", "", ""]
+fadeimages2[50]=["A49.jpg", "", ""]
 
 var fadebgcolor="white"
 
